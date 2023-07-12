@@ -40,4 +40,7 @@ _Merak etmeyin Fazladan birşeye ihtiyaç duymayacaksınız gerekli yönlendirme
 Eğer Lazy-DDOS'u geliştirmek veya hata bildiriminde bulunmak isterseniz, lütfen bu depoya katkıda bulunun. Pull talepleri kabul edilmektedir. Her türlü katkıyı memnuniyetle karşılıyorum!!
 > Gmail: selim.seven77@gmail.com
 
+# Lisans
+
+Lazy-DDOS MIT lisansı içinde lisanslanmıştır daha fazla bilgi için [LICENSE](https://github.com/CybercClay/Lazy-DDOS/blob/main/LICENSE) dosyasına göz atabilirsiniz.
 
